@@ -23,13 +23,10 @@ Implement the AI random movement.
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/94fad862-2974-47f9-90d3-d15b6e02ec77)
+![image](https://github.com/user-attachments/assets/9080820f-43ef-486c-88e8-7f3e811de557)
+![image](https://github.com/user-attachments/assets/dd7f976b-527f-4bad-ab3e-d63375a2084d)
+![image](https://github.com/user-attachments/assets/669883e6-d8d1-406a-8ce8-d50171b44168)
 
-![image](https://github.com/user-attachments/assets/a1f507a2-2141-4a9a-b7ac-b9a7d7734ede)
-
-![image](https://github.com/user-attachments/assets/542235b0-adab-4e4e-bcc9-7f80b14e8f10)
-
-![image](https://github.com/user-attachments/assets/0abcbac9-2225-4563-a76d-b85bab1ccc71)
 
 ## Result:
 Thus, the AI concept to the actor for a random movement is imple
